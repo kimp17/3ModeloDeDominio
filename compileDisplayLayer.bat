@@ -1,0 +1,1 @@
+javac -cp "universidad/WEB-INF/classes";"universidad/WEB-INF/lib/*" -d universidad/WEB-INF/classes src/display/PageController.java src/display/ActualizarProfesor.java src/display/DetalleProfesor.java src/display/ListaProfesores.java src/display/ProfesorAssembler.java src/display/ProfesorDTO.java
